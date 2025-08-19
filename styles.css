@@ -121,50 +121,6 @@ img:hover {
   }
 }
 
-.about-section .counter {
-  padding: 30px 20px;
-  background: #ffffff;
-  border-radius: 12px;
-  box-shadow: 0 10px 30px rgba(31, 45, 61, 0.08);
-  margin-top: 40px;
-  position: relative;
-  z-index: 1;
-  overflow: hidden;
-  transition: all 0.3s ease;
-}
-.about-section .counter:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 15px 35px rgba(31, 45, 61, 0.12);
-}
-.about-section .counter:before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 5px;
-  height: 100%;
-  background: #4e73df;
-  z-index: -1;
-}
-.about-section .counter .count-data {
-  margin-top: 15px;
-  margin-bottom: 15px;
-  position: relative;
-}
-.about-section .counter .count {
-  font-weight: 700;
-  font-size: 36px;
-  color: #4e73df;
-  margin: 0 0 5px;
-}
-.about-section .counter p {
-  font-weight: 600;
-  margin: 0;
-  color: #505d6e;
-  font-size: 14px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
 mark {
     background: rgba(78, 115, 223, 0.15);
     border-radius: 4px;
@@ -745,20 +701,6 @@ mark {
     background: #4e73df;
     color: white;
     transform: translateY(-3px);
-}
-
-/* Footer wave */
-.footer-wave {
-    position: relative;
-    width: 100%;
-    margin-top: -120px;
-    height: 120px;
-    overflow: hidden;
-}
-
-.footer-wave svg {
-    width: 100%;
-    height: auto;
 }
 
 /* Animations */
