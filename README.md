@@ -10,7 +10,7 @@
   
   <p>สร้างและออกแบบเพื่อแสดงผลงานและทักษะการพัฒนาเว็บไซต์แบบ Fullstack</p>
   
-  <h2>🌐 <a href="#" target="_blank">Live Demo</a></h2>
+  <h2>🌐 <a href="https://ovenkung.github.io/Portfolio/" target="_blank">Live Demo</a></h2>
   <p><strong>👆 Click to view the portfolio!</strong></p>
 </div>
 
