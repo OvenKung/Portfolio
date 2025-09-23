@@ -607,17 +607,20 @@
                     </div>
                 </div>
                 <div class="col-lg-6" data-aos="fade-left" data-aos-delay="200">
-                    <form class="contact-form bg-white p-4 rounded shadow-sm card-hover-effect">
+                    <form action="https://formspree.io/f/xldprqoz" method="POST" class="contact-form bg-white p-4 rounded shadow-sm card-hover-effect">
                         <div class="form-group">
-                            <input type="text" class="form-control form-input-animation" placeholder="Your Name">
+                            <label for="name">Name</label>
+                            <input type="text" id="name" name="name" class="form-control" required>
                         </div>
                         <div class="form-group">
-                            <input type="email" class="form-control form-input-animation" placeholder="Your Email">
+                            <label for="email">Email</label>
+                            <input type="email" id="email" name="_replyto" class="form-control" required>
                         </div>
                         <div class="form-group">
-                            <textarea class="form-control form-input-animation" rows="4" placeholder="Your Message"></textarea>
+                            <label for="message">Message</label>
+                            <textarea id="message" name="message" class="form-control" rows="5" required></textarea>
                         </div>
-                        <button type="submit" class="btn btn-primary static-btn">
+                        <button type="submit" class="btn btn-primary">
                             <span>Send Message</span>
                             <i class="fas fa-paper-plane ml-2"></i>
                         </button>
