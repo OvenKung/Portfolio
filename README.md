@@ -27,7 +27,7 @@
 - [📊 Performance](#-performance)
 - [🔧 Customization](#-customization)
 - [📞 Contact](#-contact)
-- [📄 License](#-license)
+ 
 
 ---
 
@@ -319,31 +319,12 @@ Lighthouse Score (Target):
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2025 OvenKung
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
-
----
+ 
 
 ## 🙏 Acknowledgments
 
 ### **Special Thanks**
+
 - **🎨 Design Inspiration** - Modern web design trends
 - **📚 Learning Resources** - CS319 Course Materials
 - **🛠️ Development Tools** - VS Code, GitHub, Vercel
@@ -351,6 +332,7 @@ copies or substantial portions of the Software.
 - **✨ Animation Libraries** - AOS, GSAP, Animate.css
 
 ### **Resources Used**
+
 - [Bootstrap Documentation](https://getbootstrap.com/docs/4.5/)
 - [Font Awesome Icons](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
@@ -361,7 +343,7 @@ copies or substantial portions of the Software.
 
 <div align="center">
   <h3>⭐ If you like this portfolio, please give it a star! ⭐</h3>
-  <p>Made with ❤️ for CS319 Course</p>
+  <p>Made with ❤️</p>
   
   <p>
     <strong>Created by:</strong> 
